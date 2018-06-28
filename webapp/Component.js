@@ -6,7 +6,6 @@ sap.ui.define([
 	"use strict";
 
 	return UIComponent.extend("githubui5testGithubTesting.Component", {
-
 		metadata: {
 			manifest: "json"
 		},
